@@ -1,6 +1,6 @@
 package escola;
 
-public class Professor {
+public class Professor extends Pessoa {
     String formacaoAcademica; 
     double salario; 
 }
